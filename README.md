@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋 I am Jitendra Sahu
 
-<!--
-**jeetu-sah/jeetu-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I am passionate fullstack software developer from India**
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
